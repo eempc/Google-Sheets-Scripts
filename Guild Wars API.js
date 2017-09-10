@@ -1,3 +1,4 @@
+//Retrieve single price of item on TP
 var url_TPbasic_single = "https://api.guildwars2.com/v2/commerce/prices/";
 
 function getSinglePrice(id) {
